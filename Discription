@@ -1,11 +1,11 @@
-# Concept Used
+## Concept Used
 Structures
 Arrays
 Functions
 Loops
 Conditional statements
 
-# Algorithm (Simple Steps)
+## Algorithm (Simple Steps)
 
 Start
 Create a structure for student (id, name, marks)
@@ -19,7 +19,7 @@ Perform selected operation
 Repeat until user exits
 Stop
 
-# Flowchart (Text Representation)
+## Flowchart (Text Representation)
 
 Start
    ↓
