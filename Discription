@@ -1,0 +1,42 @@
+# Concept Used
+Structures
+Arrays
+Functions
+Loops
+Conditional statements
+
+# Algorithm (Simple Steps)
+
+Start
+Create a structure for student (id, name, marks)
+Ask user for number of students
+Input student details
+Display menu:
+Add student
+Display students
+Search student
+Perform selected operation
+Repeat until user exits
+Stop
+
+# Flowchart (Text Representation)
+
+Start
+   ↓
+Enter number of students
+   ↓
+Input student details
+   ↓
+Display Menu
+   ↓
+User Choice?
+   ↓
+ ┌───────────────┬───────────────┬───────────────┐
+ | Add Student   | Display       | Search        |
+ └───────────────┴───────────────┴───────────────┘
+   ↓
+Perform operation
+   ↓
+Repeat or Exit
+   ↓
+Stop
